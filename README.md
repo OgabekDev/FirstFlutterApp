@@ -1,4 +1,4 @@
-# my_first_flutter_project
+# My First Flutter App
 
 A new Flutter project.
 
